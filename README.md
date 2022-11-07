@@ -23,5 +23,7 @@ Performed the same for a RandomForestClassifier model.
 
 Then scaled the data and performed the model comparison on the scaled data.
 
+Then analysed the scores across the models and here is the final results.
+
 ## Conclusion:
 ![Conclusion](Images/Conclusion.png)
